@@ -6,7 +6,7 @@ target/
 *.class
 
 # Secrets and environment files
-.env
+.envdgd
 src/main/resources/config.properties
 !src/main/resources/config.properties.example
 !.env.exampleftdrt
