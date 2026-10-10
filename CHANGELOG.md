@@ -12,7 +12,7 @@ s
 - feat: implemented category-based filtering, keyword search engine, and Wishlist save-for-later feature.ss
 sd
 ## [0.2.0] - 2026-08-23
-- feat: implemented multi-seller inventory management dashboard with product listing creation, editing, and deletion.
+- feat: implemented multi-seller inventory management dashboard with product listing creation, edviting, and deletion.
 s
 ## [0.1.0] - 2026-08-10 (MVP Review Release)sd
 - feat: initial core release featuring BCrypt authentication, catalog browsing, shopping cart running total, and mock checkout flow.s
