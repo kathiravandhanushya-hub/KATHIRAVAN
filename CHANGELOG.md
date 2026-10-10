@@ -10,7 +10,7 @@ s
 s
 ## [0.3.0] - 2026-08-30ss
 - feat: implemented category-based filtering, keyword search engine, and Wishlist save-for-later feature.ss
-s
+sd
 ## [0.2.0] - 2026-08-23
 - feat: implemented multi-seller inventory management dashboard with product listing creation, editing, and deletion.
 s
