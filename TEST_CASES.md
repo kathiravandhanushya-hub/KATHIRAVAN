@@ -20,9 +20,7 @@ This document provides the test cases and validation report required by Section 
 | **TC-10** | Verified Review & Rating (F8) | 1. Buyer views purchased product on `/products/{id}`<br>2. Fill rating (5 stars) & review comment<br>3. Submit form | Review accepted and average rating updated. Non-purchasers cannot review. | **PASS** |
 | **TC-11** | Wishlist / Save-for-Later (O1) | 1. Click 'Save to Wishlist' on product<br>2. Open `/wishlist` | Product visible in wishlist. Can move item directly into shopping cart. | **PASS** |
 | **TC-12** | AI Chatbot Interaction (O4) | 1. Click floating chat widget icon<br>2. Ask "How do I place an order?" | Instant conversational domain answer rendered in chat bubble. | **PASS** |
-
 ---
-
 ## 2. Security Checklist Verification (Section 9 & Section 11)
 
 | Requirement | Implementation Verification | Status |
