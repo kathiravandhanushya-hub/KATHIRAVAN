@@ -9,7 +9,7 @@ s
 - feat: completed seller sales dashboard, admin moderation control panel, product reviews on completed orders, and order status workflow.d
 
 ## [0.3.0] - 2026-08-30ss
-- feat: implemented category-based filtering, keyword search engine, and Wishlist save-for-later feature.s
+- feat: implemented category-based filtering, keyword search engine, and Wishlist save-for-later feature.ss
 
 ## [0.2.0] - 2026-08-23
 - feat: implemented multi-seller inventory management dashboard with product listing creation, editing, and deletion.
