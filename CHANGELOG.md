@@ -8,7 +8,7 @@ s
 ## [1.0.0] - 2026-09-21 
 - feat: completed seller sales dashboard, admin moderation control panel, product reviews on completed orders, and order status workflow.d
 
-## [0.3.0] - 2026-08-30s
+## [0.3.0] - 2026-08-30ss
 - feat: implemented category-based filtering, keyword search engine, and Wishlist save-for-later feature.s
 
 ## [0.2.0] - 2026-08-23
