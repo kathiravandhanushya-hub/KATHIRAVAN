@@ -1,0 +1,31 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<footer class="footer">
+    <p>&copy; 2026 KathiravanMart — Anna University R2025 Semester 3 Capstone Project</p>
+    <p style="font-size: 0.8rem; margin-top: 0.25rem; color: #94a3b8;">Built with Java Servlets, JDBC, HikariCP, and Apache Tomcat</p>
+</footer>
+
+<!-- AI Shopping Assistant Floating Widget (Section 11 & Section 17) -->
+<button id="chatWidgetBtn" class="chat-widget-button" title="Chat with AI Assistant">
+    💬
+</button>
+
+<div id="chatPanel" class="chat-panel">
+    <div class="chat-header">
+        <h4>🤖 KathiravanMart AI Assistant</h4>
+        <button id="chatCloseBtn">&times;</button>
+    </div>
+    <div id="chatMessages" class="chat-messages">
+        <div class="chat-bubble bot">
+            Hello! I am your KathiravanMart assistant. Ask me about products, orders, shipping, or how to sell on our platform!
+        </div>
+    </div>
+    <form id="chatForm" class="chat-footer">
+        <input type="text" id="chatInput" placeholder="Ask a question..." maxlength="250" required>
+        <button type="submit">Send</button>
+    </form>
+</div>
+
+<script src="${pageContext.request.contextPath}/js/app.js"></script>
+<script src="${pageContext.request.contextPath}/js/chatbot.js"></script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+# Build target and artifacts
+target/
+*.war
+*.ear
+*.jar
+*.class
+
+# Secrets and environment files
+.env
+src/main/resources/config.properties
+!src/main/resources/config.properties.example
+!.env.example
+
+# H2 Database files and logs
+data/
+*.mv.db
+*.trace.db
+logs/
+*.log
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,18 @@
+# Changelog
+
+All notable changes to **KathiravanMart** are documented in this file in accordance with Semantic Versioning (SemVer) and project Section 15 specifications.
+
+## [1.1.0] - 2026-10-10 (Final Review Release)
+- feat: integrated server-side AI Chatbot proxy with Gemini LLM integration, canned fallback provider, and session rate-limiting.
+
+## [1.0.0] - 2026-09-21 (Full Build & Cloud Deployment)
+- feat: completed seller sales dashboard, admin moderation control panel, product reviews on completed orders, and order status workflow.
+
+## [0.3.0] - 2026-08-30
+- feat: implemented category-based filtering, keyword search engine, and Wishlist save-for-later feature.
+
+## [0.2.0] - 2026-08-23
+- feat: implemented multi-seller inventory management dashboard with product listing creation, editing, and deletion.
+
+## [0.1.0] - 2026-08-10 (MVP Review Release)
+- feat: initial core release featuring BCrypt authentication, catalog browsing, shopping cart running total, and mock checkout flow.

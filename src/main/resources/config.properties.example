@@ -1,0 +1,22 @@
+# KathiravanMart Application Configuration Template
+# Database Configuration
+db.driver=org.h2.Driver
+db.url=jdbc:h2:./data/kathiravanmart;DB_CLOSE_DELAY=-1;AUTO_SERVER=TRUE
+db.user=sa
+db.password=
+db.pool.maxSize=10
+db.pool.minIdle=2
+db.pool.timeout=30000
+
+# AI Chatbot Configuration
+# Options: mock | gemini
+ai.chatbot.provider=mock
+ai.chatbot.gemini.key=
+ai.chatbot.gemini.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent
+ai.chatbot.rateLimitPerMinute=10
+ai.chatbot.inputMaxChars=250
+
+# Application Settings
+app.session.timeoutMinutes=30
+app.currency=INR
+app.name=KathiravanMart
