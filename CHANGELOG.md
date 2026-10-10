@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to **KathiravanMart** are documented in this file in accordance with Semantic Versioning (SemVer) and project Section 15 specifications.
+All notable changes to **KathiravanMart** are documented in this file in accordance with Semantic Versioning (SemVer) and project Section 15 specifications.d
 s
 ## [1.1.0] - 2026-10-10 (Final Review Release)s
 - feat: integrated server-side AI Chatbot proxy with Gemini LLM integration, canned fallback provider, and session rate-limiting.
