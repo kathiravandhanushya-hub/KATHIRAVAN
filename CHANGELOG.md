@@ -2,7 +2,7 @@
 
 All notable changes to **KathiravanMart** are documented in this file in accordance with Semantic Versioning (SemVer) and project Section 15 specifications.
 s
-## [1.1.0] - 2026-10-10 (Final Review Release)
+## [1.1.0] - 2026-10-10 (Final Review Release)s
 - feat: integrated server-side AI Chatbot proxy with Gemini LLM integration, canned fallback provider, and session rate-limiting.
 s
 ## [1.0.0] - 2026-09-21 
