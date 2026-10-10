@@ -8,7 +8,7 @@ All notable changes to **KathiravanMart** are documented in this file in accorda
 ## [1.0.0] - 2026-09-21 
 - feat: completed seller sales dashboard, admin moderation control panel, product reviews on completed orders, and order status workflow.
 
-## [0.3.0] - 2026-08-30
+## [0.3.0] - 2026-08-30s
 - feat: implemented category-based filtering, keyword search engine, and Wishlist save-for-later feature.s
 
 ## [0.2.0] - 2026-08-23
