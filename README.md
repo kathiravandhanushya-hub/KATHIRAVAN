@@ -10,18 +10,13 @@
 **Package Base**: `com.kathiravan.kathiravanmart`  
 **Deployed URL**: [http://localhost:8080/kathiravanmart](http://localhost:8080/kathiravanmart) *(Cloud Deployment link in Section 8)*
 
----
-
 ## 📌 Project Overview & Problem Statement
 
 Modern e-commerce requires multi-vendor capabilities where independent sellers manage individual inventories, buyers discover and purchase diverse goods in an aggregated cart, and administrators maintain marketplace trust and security.
 
 **KathiravanMart** is a full-featured, multi-seller e-commerce marketplace web application designed and built from scratch following the **Layered MVC pattern over Java Servlets (javax.servlet.*), JDBC, HikariCP, and Apache Tomcat 9.0.x**. The system eliminates complex external frameworks in favor of clean design patterns, parameterized SQL security, and robust server-side architecture.
 
----
-
 ## ✨ Features Implemented
-
 ### Mandatory Core Features (F1 – F8)
 - **F1: User Authentication & Role Management**: Multi-role registration (Buyer, Seller). Administrative privileges seeded securely; BCrypt password hashing; session fixation defense via session regeneration on login; explicit 30-minute session timeout.
 - **F2: Seller Inventory Management**: Full CRUD operations for product listings (title, category, price in `DECIMAL(10,2)`, stock quantity, image URL, description).
@@ -223,6 +218,8 @@ The database is pre-seeded with sample users for instant evaluation:
 - **Degree**: B.E. / B.Tech, Computer Science and Engineering
 - **Institution**: Anna University (R2025 Regulation, Semester 3)
 - **Role**: Solo Builder
-#   K A T H I R A V A N  
- #   K A T H I R A V A N  
+#   K A T H I R A V A N 
+ 
+ #   K A T H I R A V A N 
+ 
  
