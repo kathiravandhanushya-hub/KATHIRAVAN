@@ -15,4 +15,4 @@ All notable changes to **KathiravanMart** are documented in this file in accorda
 - feat: implemented multi-seller inventory management dashboard with product listing creation, editing, and deletion.
 resfgk
 ## [0.1.0] - 2026-08-10 (MVP Review Release)
-- feat: initial core release featuring BCrypt authentication, catalog browsing, shopping cart running total, and mock checkout flow.
+- feat: initial core release featuring BCrypt authentication, catalog browsing, shopping cart running total, and mock checkout flow.s
