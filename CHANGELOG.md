@@ -5,7 +5,7 @@ All notable changes to **KathiravanMart** are documented in this file in accorda
 ## [1.1.0] - 2026-10-10 (Final Review Release)
 - feat: integrated server-side AI Chatbot proxy with Gemini LLM integration, canned fallback provider, and session rate-limiting.
 
-## [1.0.0] - 2026-09-21 (Full Build & Cloud Deployment)
+## [1.0.0] - 2026-09-21 
 - feat: completed seller sales dashboard, admin moderation control panel, product reviews on completed orders, and order status workflow.
 
 ## [0.3.0] - 2026-08-30
