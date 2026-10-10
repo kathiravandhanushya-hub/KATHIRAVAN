@@ -13,7 +13,7 @@ s
 sd
 ## [0.2.0] - 2026-08-23
 - feat: implemented multi-seller inventory management dashboard with product listing creation, edviting, and deletion.
-s
+sv
 ## [0.1.0] - 2026-08-10 (MVP Review Release)sd
 - feat: initial core release featuring BCrypt authentication, catalog browsing, shopping cart running total, and mock checkout flow.s
 s
