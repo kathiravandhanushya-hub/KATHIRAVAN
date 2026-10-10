@@ -9,7 +9,7 @@ target/
 .env
 src/main/resources/config.properties
 !src/main/resources/config.properties.example
-!.env.example
+!.env.exampleftdrt
 
 # H2 Database files and logs
 data/
